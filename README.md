@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DEMONSLEADER https://telegra.ph/file/2a5a813c8e8f5080d981c.jpg
+- 👋 Hi, I’m @DEMONSLEADER 
 - 👀 I’m interested in ... Botmaking
 - 🌱 I’m currently learning ...how to make bot
 - 💞️ I’m looking to collaborate on ...anyone who can help
